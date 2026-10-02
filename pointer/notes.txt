@@ -1,0 +1,14 @@
+Pointer : Definition
+
+A pointer is a variable that stores the memory address of another variable.
+
+| Type                   | Meaning                                                 |
+| ---------------------- | ------------------------------------------------------- |
+| 1. Null Pointer        | Pointer that points to nothing                          |
+| 2. Void Pointer        | Generic pointer that can store address of any data type |
+| 3. Wild Pointer        | Uninitialized pointer                                   |
+| 4. Dangling Pointer    | Pointer referring to memory that is no longer valid     |
+| 5. Pointer to Pointer  | Pointer that stores address of another pointer          |
+| 6. Function Pointer    | Pointer that stores address of a function               |
+| 7. Constant Pointer    | Pointer whose address cannot be changed                 |
+| 8. Pointer to Constant | Pointer through which the value cannot be changed       |
